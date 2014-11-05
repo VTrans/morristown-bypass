@@ -1,4 +1,4 @@
 morristown-bypass
 =================
 
-Morristown Bypass GIS data
+Updates to road geometry for submission to OSM, Google, and Here
